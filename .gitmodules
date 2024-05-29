@@ -1,0 +1,12 @@
+[submodule "UserManager"]
+	path = UserManager
+	url = https://github.com/OSoufian/3PROJ_UserManager.git
+[submodule "Front"]
+	path = Front
+	url = https://github.com/OSoufian/3PROJ_Front.git
+[submodule "ChatApis"]
+	path = ChatApis
+	url = https://github.com/OSoufian/3PROJ_ChatApis.git
+[submodule "FileManager"]
+	path = FileManager
+	url = https://github.com/OSoufian/3PROJ_FileManager.git
